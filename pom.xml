@@ -9,7 +9,6 @@
 	<!-- one comment left -->
 	<name>jiratests</name>
 	<url>http://maven.apache.org</url>
-<!-- two comments left -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<thucydides.version>0.9.228</thucydides.version>
