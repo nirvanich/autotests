@@ -9,7 +9,7 @@
 	<!-- <a> This is strange - but true!</a> -->
 	<name>jiratests</name>
 	<url>http://maven.apache.org</url>
-
+<!-- <a> different comment  </a> -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<thucydides.version>0.9.228</thucydides.version>
