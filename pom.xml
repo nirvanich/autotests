@@ -6,10 +6,10 @@
 	<artifactId>jiratests</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<!-- <a> This is strange - but true!</a> -->
+	<!-- one comment left -->
 	<name>jiratests</name>
 	<url>http://maven.apache.org</url>
-<!-- <a> different comment  </a> -->
+<!-- two comments left -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<thucydides.version>0.9.228</thucydides.version>
